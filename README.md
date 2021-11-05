@@ -77,15 +77,14 @@ Our Mission is to create a tools like Browser Extensions and Mobile Apps to give
 ``` Stream ID: kjzl6cwe1jw1470ue9ikdja9jcvaqk1n1gi250kb61c30h2pgq8803rbxjtiu9f```
 
 # ceramic-api
-
-Github - https://github.com/NetSepio/ceramic-api
+https://github.com/swathi-469/ceramic-api
 
 API Server for Creating and Viewing Streams (to be run along with ceramic daemon)
 
 ## SmartContract
 
 Smart Contract for the NetSepio Voting and NFT Minting Operations
-https://github.com/NetSepio/SmartContract
+https://github.com/swathi-469/SmartContract-
 
 Polygon Mumbai Testnet:
 
@@ -109,6 +108,6 @@ Subscriptions (WS): https://api.studio.thegraph.com/query/5758/net/v0.0.1
 
 ## WebScrape Bot 
 
-Github - https://github.com/NetSepio/webscrape 
+Github - https://github.com/swathi-469/Webscrape- 
 
 Scrape Websites based on the reviews submitted and add it's content on IPFS.
